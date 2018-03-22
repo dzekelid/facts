@@ -31,7 +31,7 @@ apis:
   tags: Facts
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/facts/master/_listings/circleci/project-username-project-build-num-artifacts-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/facts/master/_listings/circleci/project-username-project-build-num-artifacts-parameters.md
 x-common:
 - type: x-blog
   url: https://circleci.com/blog/
